@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with over 3 years of 
 
 - 💻 I specialize in **frontend development** with a passion for creating clean, efficient, and user-friendly interfaces.
 - 🛠️ Tech Stack: 
-  - **Languages**: JavaScript, TypeScript, HTML, CSS
-  - **Libraries & Frameworks**: React.js, Vue.js, SASS
+  - **Languages**: JavaScript, TypeScript, HTML, CSS, SASS
+  - **Libraries & Frameworks**: React.js Next, Redux, Vue.js Nuxt Pinia
   - **Tools**: Git, Bash, REST API, GraphQL
+  - **Testing**: Unit, integration, end-to-end, Jest
   - **Methodologies**: Scrum, Kanban
 
 ## 📊 My LeetCode Journey
@@ -15,8 +16,5 @@ I'm constantly improving my coding skills and currently working to level up on [
 ## 🎯 Current Goals
 - Building an **online platform** for selling goods.
 - Strengthening my **Programming** and **Architecture designing** knowledge.
-
-## 🚀 Get in Touch
-- [LinkedIn](https://linkedin.com/in/ys-yoqub)
 
 Thanks for stopping by! 😊
